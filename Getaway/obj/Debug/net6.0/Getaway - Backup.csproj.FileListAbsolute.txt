@@ -1,0 +1,94 @@
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\appsettings.Development.json
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\appsettings.json
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\ocelot.json
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Getaway - Backup.exe
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Getaway - Backup.deps.json
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Getaway - Backup.runtimeconfig.json
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Getaway - Backup.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Getaway - Backup.pdb
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\AspectCore.Abstractions.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\AspectCore.Core.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\AspectCore.Extensions.DependencyInjection.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\AspectCore.Extensions.Reflection.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Butterfly.Client.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Butterfly.Client.AspNetCore.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Butterfly.DataContract.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Butterfly.OpenTracing.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\CacheManager.Core.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\CacheManager.Microsoft.Extensions.Configuration.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\CacheManager.Microsoft.Extensions.Logging.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Consul.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\FluentValidation.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\IdentityModel.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\IdentityModel.AspNetCore.OAuth2Introspection.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\IdentityServer4.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\IdentityServer4.AccessTokenValidation.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\MessagePack.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Ocelot.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Pivotal.Discovery.ClientCore.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Pivotal.Discovery.EurekaBase.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Polly.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Rafty.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\SQLitePCLRaw.batteries_green.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Steeltoe.CloudFoundry.ConnectorBase.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Steeltoe.Common.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Steeltoe.Common.Http.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Steeltoe.Discovery.EurekaBase.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\win8-arm\native\e_sqlite3.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\unix\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+E:\Mircoservices\Runner\Getaway\bin\Debug\net6.0\runtimes\win\lib\netstandard1.3\System.Net.Http.WinHttpHandler.dll
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.csproj.AssemblyReference.cache
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.AssemblyInfoInputs.cache
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.AssemblyInfo.cs
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.csproj.CoreCompileInputs.cache
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.MvcApplicationPartsAssemblyInfo.cs
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.MvcApplicationPartsAssemblyInfo.cache
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\staticwebassets.build.json
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\staticwebassets.development.json
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\scopedcss\bundle\Getaway - Backup.styles.css
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.csproj.CopyComplete
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.dll
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\refint\Getaway - Backup.dll
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.pdb
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\Getaway - Backup.genruntimeconfig.cache
+E:\Mircoservices\Runner\Getaway\obj\Debug\net6.0\ref\Getaway - Backup.dll

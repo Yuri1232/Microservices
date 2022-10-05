@@ -1,0 +1,82 @@
+version: '3.4'
+
+services:
+  cursesapi:
+    image: cursesapi:dev
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "CursesAPI"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_cursesapi$
+    volumes:
+      - C:\Users\pc\Downloads\Mircoservices(1)\Mircoservices\Runner\CursesAPI:/app
+      - C:\Users\pc\Downloads\Mircoservices(1)\Mircoservices\Runner:/src
+      - C:\Users\pc\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_cursesapi$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_cursesapi$ \"/app/bin/Debug/net6.0/CursesAPI.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+  getaway:
+    image: getaway:dev
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "Getaway"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_getaway$
+    volumes:
+      - C:\Users\pc\Downloads\Mircoservices(1)\Mircoservices\Runner\Getaway:/app
+      - C:\Users\pc\Downloads\Mircoservices(1)\Mircoservices\Runner:/src
+      - C:\Users\pc\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_getaway$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_getaway$ \"/app/bin/Debug/net6.0/Getaway.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  studentsapi:
+    image: studentsapi:dev
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "StudentsAPI"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_studentsapi$
+    volumes:
+      - C:\Users\pc\Downloads\Mircoservices(1)\Mircoservices\Runner\StudentsAPI:/app
+      - C:\Users\pc\Downloads\Mircoservices(1)\Mircoservices\Runner:/src
+      - C:\Users\pc\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_studentsapi$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_studentsapi$ \"/app/bin/Debug/net6.0/StudentsAPI.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
